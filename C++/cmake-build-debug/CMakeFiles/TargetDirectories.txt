@@ -1,0 +1,7 @@
+/Users/lixiangyang/work/femas_poc/C++/cmake-build-debug/CMakeFiles/femas_poc.dir
+/Users/lixiangyang/work/femas_poc/C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lixiangyang/work/femas_poc/C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lixiangyang/work/femas_poc/C++/cmake-build-debug/CMakeFiles/list_install_components.dir
+/Users/lixiangyang/work/femas_poc/C++/cmake-build-debug/CMakeFiles/install.dir
+/Users/lixiangyang/work/femas_poc/C++/cmake-build-debug/CMakeFiles/install/local.dir
+/Users/lixiangyang/work/femas_poc/C++/cmake-build-debug/CMakeFiles/install/strip.dir

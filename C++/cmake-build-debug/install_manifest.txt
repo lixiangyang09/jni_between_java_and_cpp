@@ -1,0 +1,2 @@
+/Users/lixiangyang/work/femas_poc/C++/install/./libfemas_poc.dylib
+/Users/lixiangyang/work/femas_poc/C++/install/./femas_poc_jni.jar
